@@ -30,7 +30,7 @@ Date | Event
 15 May|Lift-off Workshop Day 2
 04 July|Milestone 1
 02 July|Milestone 2
-30 Kuly|Milestone 3
+30 July|Milestone 3
 
 ## Possible Extensions
 
